@@ -1,4 +1,4 @@
 # Track-Analytics
-Analyzing Track and Field Results
+Analyzing Decathlon Results
 
-This repo contains various projects relating to analyzing track and field results.
+This repo conatins a database of decathlon results and different analyses of that database.
